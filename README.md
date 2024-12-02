@@ -1,2 +1,1 @@
-# Audit-Enum-Scripts
-Audit Powerfull Powershell Script ( No AV Alerts)
+# Win10-Audit-script ####
