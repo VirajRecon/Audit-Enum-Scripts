@@ -9,13 +9,16 @@ A powerful PowerShell-based enumeration script designed for auditing and assessi
   - Windows Firewall, UAC, PowerShell version
   - Local security products: antivirus, antispyware, firewall
   - Password and lockout policy
+  - Patches
 - 🗂️ Enumerates:
   - Shares with “Everyone” access
   - Domain/local group memberships
   - Writable/configurable/unquoted path services
   - DLL hijackability & autoruns
   - Scheduled tasks and unattended install files
+  
 
+many more.
 ---
 
 ## 🚀 Usage
